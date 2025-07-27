@@ -76,6 +76,12 @@ form {
     margin-bottom: 15px;
 }
 
+.full-name,
+.communication,
+.pwd {
+    margin-left: 50px;
+}
+
 button {
     background-color: #596D48;
     color: white;
