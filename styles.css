@@ -70,6 +70,12 @@ form {
     border-top: 1px solid rgb(246, 244, 244);
 }
 
+.white-box > p {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 button {
     background-color: #596D48;
     color: white;
