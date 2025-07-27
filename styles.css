@@ -11,8 +11,10 @@ body {
 
 .left-panel {
     background-image: url(img/halie-west-25xggax4bSA-unsplash.jpg);
+    margin-left: 160px;
 }
 
 .right-panel {
     background-color: rgb(235, 233, 233);
+    margin-right: 160px;
 }
