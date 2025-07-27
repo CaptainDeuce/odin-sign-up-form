@@ -39,3 +39,8 @@ body {
     color: white;
     font: 80px "odin-logo", sans-serif;
 }
+
+.photo-creds,
+.photo-creds > a {
+    color: white;
+}
