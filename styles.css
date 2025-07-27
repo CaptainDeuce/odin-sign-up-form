@@ -24,3 +24,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.dark-logo-background > p {
+    color: white;
+}
