@@ -18,3 +18,9 @@ body {
     background-color: rgb(235, 233, 233);
     margin-right: 160px;
 }
+
+.dark-logo-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
