@@ -54,6 +54,7 @@ body {
 .right-panel {
     background-color: rgb(250, 254, 254);
     margin-right: 160px;
+    width: 975px;
 }
 
 .right-panel p {
@@ -61,7 +62,7 @@ body {
 }
 
 .service-text {
-    margin-top: 150px;
+    margin: 150px 100px 20px 50px;
 }
 
 form {
