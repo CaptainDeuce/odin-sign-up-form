@@ -22,6 +22,7 @@ body {
 .left-panel {
     background-image: url("img/halie-west-25xggax4bSA-unsplash.jpg");
     margin-left: 160px;
+    width: 900px;
     display: flex;
     flex-direction: column;
 }
