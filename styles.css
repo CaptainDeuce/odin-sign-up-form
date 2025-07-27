@@ -102,6 +102,7 @@ label {
 
 input {
     border: solid #E5E7EB;
+    border-radius: 3px;
 }
 
 input[type="password"]:invalid {
