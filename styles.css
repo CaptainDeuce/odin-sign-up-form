@@ -22,11 +22,8 @@ body {
 .left-panel {
     background-image: url("img/halie-west-25xggax4bSA-unsplash.jpg");
     margin-left: 160px;
-}
-
-.right-panel {
-    background-color: rgb(235, 233, 233);
-    margin-right: 160px;
+    display: flex;
+    flex-direction: column;
 }
 
 .dark-logo-background {
@@ -43,4 +40,9 @@ body {
 .photo-creds,
 .photo-creds > a {
     color: white;
+}
+
+.right-panel {
+    background-color: rgb(235, 233, 233);
+    margin-right: 160px;
 }
