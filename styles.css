@@ -97,6 +97,10 @@ input {
     border: solid #E5E7EB;
 }
 
+input[type="password"]:invalid {
+    border-color: red;
+}
+
 button {
     background-color: #596D48;
     color: white;
