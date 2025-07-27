@@ -93,6 +93,10 @@ form {
     margin-left: 50px;
 }
 
+input {
+    border: solid #E5E7EB;
+}
+
 button {
     background-color: #596D48;
     color: white;
