@@ -32,15 +32,18 @@ body {
 }
 
 .dark-logo-background {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
 .dark-logo-background > p {
     color: white;
     font: 80px "odin-logo", sans-serif;
+}
+
+.photo-creds {
+    margin-bottom: 10px;
 }
 
 .photo-creds,
