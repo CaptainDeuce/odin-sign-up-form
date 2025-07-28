@@ -33,8 +33,10 @@ body {
 
 .dark-logo-background {
     background-color: rgba(0, 0, 0, 0.5);
+    width: 530px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .dark-logo-background > p {
